@@ -1,0 +1,5 @@
+python index.py --dataset MNIST --nnfile model/raghunathan18_pgdnn.pkl --eps 0.1 --dims "[784, 200, 100, 10]" --method "sdpnet" --num 30 --input_bounds "(0., 1.)" --output mnist_log.txt  
+
+# primal -> sdr_multi
+# dual   -> deepsdp
+# sdpnet -> sdpnet_mosek

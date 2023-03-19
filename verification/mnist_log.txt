@@ -1,0 +1,43 @@
+primal solved number: 0
+Dual solved number: 0
+Dual solved number: 0
+{'target': 5, 'label': 6, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -0.6356045472887395, 'res_plus_time': 129.344, 'status_res_plus': 1.0}
+{'target': 5, 'label': 4, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -7.70472851888186, 'res_plus_time': 79.125, 'status_res_plus': 1.0}
+{'target': 8, 'label': 9, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -2.329618639588976, 'res_plus_time': 175.078, 'status_res_plus': 1.0}
+{'target': 8, 'label': 1, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 11.755835382059681, 'res_plus_time': 86.59400000000001, 'status_res_plus': 0.0}
+{'target': 7, 'label': 0, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 16.537097999758764, 'res_plus_time': 126.73400000000001, 'status_res_plus': 0.0}
+{'target': 3, 'label': 9, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -1.9115492196338164, 'res_plus_time': 88.09400000000001, 'status_res_plus': 1.0}
+{'target': 9, 'label': 4, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -1.610902243882743, 'res_plus_time': 82.328, 'status_res_plus': 1.0}
+{'target': 4, 'label': 2, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 2.1822980530617673, 'res_plus_time': 1111.453, 'status_res_plus': 0.0}
+{'target': 3, 'label': 9, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -1.9708479910583714, 'res_plus_time': 92.532, 'status_res_plus': 1.0}
+{'target': 5, 'label': 1, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 16.39988702500759, 'res_plus_time': 74.266, 'status_res_plus': 0.0}
+{'target': 0, 'label': 9, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 3.1262896552631263, 'res_plus_time': 132.453, 'status_res_plus': 0.0}
+{'target': 9, 'label': 0, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 2.6954437973486285, 'res_plus_time': 170.14000000000001, 'status_res_plus': 0.0}
+{'target': 6, 'label': 9, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 2.1041898105341055, 'res_plus_time': 90.73400000000001, 'status_res_plus': 0.0}
+{'target': 2, 'label': 4, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 0.0352682145164005, 'res_plus_time': 113.98400000000001, 'status_res_plus': 0.0}
+{'target': 8, 'label': 2, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -14.72565415471907, 'res_plus_time': 126.922, 'status_res_plus': 1.0}
+{'target': 8, 'label': 4, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -1.3399330186896616, 'res_plus_time': 123.938, 'status_res_plus': 1.0}
+{'target': 9, 'label': 8, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 5.202691568791385, 'res_plus_time': 132.797, 'status_res_plus': 0.0}
+{'target': 1, 'label': 3, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -7.464594126204941, 'res_plus_time': 128.203, 'status_res_plus': 1.0}
+{'target': 3, 'label': 4, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -4.732509057768825, 'res_plus_time': 147.796, 'status_res_plus': 1.0}
+{'target': 5, 'label': 0, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 2.865395468051313, 'res_plus_time': 167.047, 'status_res_plus': 0.0}
+{'target': 3, 'label': 0, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 1.7333536543697652, 'res_plus_time': 146.11, 'status_res_plus': 0.0}
+{'target': 0, 'label': 9, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -2.4641583301728485, 'res_plus_time': 109.0, 'status_res_plus': 1.0}
+{'target': 5, 'label': 6, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -0.456209322294018, 'res_plus_time': 122.265, 'status_res_plus': 1.0}
+{'target': 3, 'label': 4, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -3.2094987323675617, 'res_plus_time': 137.094, 'status_res_plus': 1.0}
+{'target': 2, 'label': 0, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 16.721215276989074, 'res_plus_time': 177.875, 'status_res_plus': 0.0}
+{'target': 4, 'label': 6, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -4.3530794401637225, 'res_plus_time': 118.71900000000001, 'status_res_plus': 1.0}
+{'target': 5, 'label': 0, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 24.18925436131128, 'res_plus_time': 135.312, 'status_res_plus': 0.0}
+{'target': 3, 'label': 5, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -1.6391060690767763, 'res_plus_time': 145.921, 'status_res_plus': 1.0}
+{'target': 1, 'label': 8, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -9.61360643538657, 'res_plus_time': 121.375, 'status_res_plus': 1.0}
+{'target': 5, 'label': 9, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 1.6451802848114574, 'res_plus_time': 126.61, 'status_res_plus': 0.0}
+{'target': 5, 'label': 8, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 3.5922741617352574, 'res_plus_time': 85.016, 'status_res_plus': 0.0}
+{'target': 2, 'label': 9, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 7.9344023884613675, 'res_plus_time': 159.891, 'status_res_plus': 0.0}
+{'target': 7, 'label': 3, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': 4.87151875005356, 'res_plus_time': 127.98400000000001, 'status_res_plus': 0.0}
+primal solved number: 0
+Dual solved number: 0
+Dual solved number: 0
+{'target': 5, 'label': 6, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -8.966599691201393, 'res_plus_time': 135.078, 'status_res_plus': 1.0}
+{'target': 5, 'label': 4, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -8.600870172465541, 'res_plus_time': 106.063, 'status_res_plus': 1.0}
+{'target': 8, 'label': 9, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -3.236358045456817, 'res_plus_time': 238.141, 'status_res_plus': 1.0}
+{'target': 8, 'label': 1, 'model_name': 'model/raghunathan18_pgdnn.pkl', 'res_plus': -4.2662585736396235, 'res_plus_time': 89.968, 'status_res_plus': 1.0}
